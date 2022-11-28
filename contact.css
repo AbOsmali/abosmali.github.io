@@ -1,0 +1,42 @@
+#form{
+    padding: 4px;
+    color:red;
+    text-align: center;
+}
+
+body{
+    background-image: url('https://www.rxwallpaper.site/wp-content/uploads/night-sky-stars-hiking2christ.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+ 
+h1{
+    font-size: 45px;
+}
+
+.gmail{
+    height: 30px; 
+    width: 30px;
+}
+
+.linkedin{
+    height: 30px; 
+    width: 30px;
+}
+
+.facebook{
+    height: 30px; 
+    width: 30px;
+}
+
+.web{
+    height: 30px; 
+    width: 30px;
+}
+#button{
+    height: 40px;
+    width: 40px;
+    border: solid;
+    border-color: red;
+}
